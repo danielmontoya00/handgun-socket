@@ -1,0 +1,8 @@
+{
+  "name": "handgun-detection-socket",
+  "version": "0.0.1",
+  "description": "Handgun detection socket layer",
+  "dependencies": {
+    "socket.io": "^4.6.1"
+  }
+}
